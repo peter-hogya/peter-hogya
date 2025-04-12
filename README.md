@@ -2,7 +2,8 @@
 
 <p align="center">
 🇨🇿 living in Prague
-  
+</p>
+<p align="center">
 DevOps • Networking • Cybersecurity 
 </p>
 
