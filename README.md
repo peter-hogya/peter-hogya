@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Peter 👋</h1>
 
 <p align="center">
-🇨🇿 living in Prague,  
+🇨🇿 living in Prague
+  
 DevOps • Networking • Cybersecurity 
 </p>
 
@@ -11,7 +12,7 @@ DevOps • Networking • Cybersecurity
 - Automate infrastructure & CI/CD workflows  
 - Dive into networking, protocols & firewalls  
 - Secure systems
-- Maintain infradtructure 
+- Maintain infrastructure 
 
 ---
 
